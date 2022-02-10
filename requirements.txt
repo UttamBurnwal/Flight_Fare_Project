@@ -15,17 +15,13 @@ Flask==2.0.2
 Flask-Cors==3.0.10
 fonttools==4.29.1
 importlib-resources==5.4.0
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1598865816163/work
 ipython_genutils==0.2.0
 ipywidgets==7.6.5
 itsdangerous==2.0.1
-jedi @ file:///C:/ci/jedi_1611315808330/work
 Jinja2==3.0.3
 joblib==1.1.0
 jsonschema==4.4.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
 jupyter-console==6.4.0
 jupyter-core==4.6.3
 jupyterlab-pygments==0.1.2
@@ -44,13 +40,10 @@ openpyxl==3.0.9
 packaging==21.3
 pandas==1.4.0
 pandocfilters==1.5.0
-parso @ file:///tmp/build/80754af9/parso_1596826841367/work
 pickleshare==0.7.5
 Pillow==9.0.1
 prometheus-client==0.13.1
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
 pycparser==2.21
-Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
 pyparsing==3.0.7
 pyrsistent==0.18.1
 python-dateutil==2.8.1
@@ -74,10 +67,10 @@ traitlets==5.1.1
 typing_extensions==4.0.1
 ujson==5.1.0
 urllib3==1.26.8
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==2.0.3
 widgetsnbextension==3.5.2
 wincertstore==0.2
 wrapt==1.13.3
 zipp==3.7.0
+gunicorn
