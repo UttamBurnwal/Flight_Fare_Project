@@ -6,7 +6,6 @@ bleach==4.1.0
 certifi==2020.6.20
 cffi==1.15.0
 click==8.0.3
-colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
 cycler==0.11.0
 decorator==4.4.2
 defusedxml==0.7.1
